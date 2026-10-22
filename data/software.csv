@@ -1,0 +1,16 @@
+software_id,name,version,vendor,asset_id
+S001,Microsoft Exchange,2019 CU13,Microsoft,A013
+S002,Apache Log4j,2.14.1,Apache,A012
+S003,Jenkins,2.375,Jenkins,A012
+S004,F5 BIG-IP,16.1.2,F5 Networks,A008
+S005,FortiOS,7.2.3,Fortinet,A008
+S006,PostgreSQL,15.2,PostgreSQL,A004
+S007,Spring Framework,5.3.16,VMware,A004
+S008,Windows Server,2019,Microsoft,A001
+S009,Oracle Database,19c,Oracle,A005
+S010,SharePoint Server,2019,Microsoft,A005
+S011,OpenSSH,8.9,OpenBSD,A007
+S012,libssh,0.8.1,libssh,A015
+S013,Chrome,116.0,Google,A010
+S014,Chrome,116.0,Google,A011
+S015,Ubuntu Server,22.04,Canonical,A002

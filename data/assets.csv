@@ -1,0 +1,16 @@
+asset_id,hostname,ip_address,asset_type,os,criticality,department,exposed_to_internet
+A001,DC-01,10.0.0.10,server,Windows Server 2019,critical,IT,false
+A002,WEB-01,10.0.1.10,server,Ubuntu 22.04,high,Engineering,true
+A003,WEB-02,10.0.1.11,server,Ubuntu 22.04,high,Engineering,true
+A004,DB-01,10.0.2.10,server,PostgreSQL 15 / Linux,critical,Engineering,false
+A005,FIN-DB,10.0.2.11,server,Oracle DB / Linux,critical,Finance,false
+A006,HR-APP,10.0.3.10,server,Windows Server 2022,medium,HR,false
+A007,VPN-GW,10.0.0.1,network_device,Cisco IOS,high,IT,true
+A008,FW-01,10.0.0.2,network_device,PaloAlto PAN-OS,high,IT,true
+A009,LAPTOP-CEO,10.0.4.10,workstation,macOS Sonoma,high,Executive,false
+A010,LAPTOP-DEV1,10.0.4.11,workstation,Windows 11,medium,Engineering,false
+A011,LAPTOP-DEV2,10.0.4.12,workstation,Windows 11,medium,Engineering,false
+A012,JENKINS-01,10.0.1.20,server,Ubuntu 20.04,high,Engineering,true
+A013,MAIL-01,10.0.0.20,server,Exchange 2019,high,IT,true
+A014,BACKUP-01,10.0.5.10,server,Windows Server 2019,critical,IT,false
+A015,IOT-CAM-01,10.0.6.10,iot,Embedded Linux,low,Facilities,true

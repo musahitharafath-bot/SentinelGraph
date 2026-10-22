@@ -1,0 +1,24 @@
+{
+  "feature_cols": [
+    "exposed_to_internet",
+    "vuln_count",
+    "max_cvss",
+    "avg_cvss",
+    "exploitable_count",
+    "unpatched_count",
+    "out_degree",
+    "in_degree",
+    "admin_owner_count",
+    "pagerank_score",
+    "betweenness_score",
+    "criticality_critical",
+    "criticality_high",
+    "criticality_low",
+    "criticality_medium",
+    "asset_type_iot",
+    "asset_type_network_device",
+    "asset_type_server",
+    "asset_type_workstation"
+  ],
+  "input_dim": 19
+}

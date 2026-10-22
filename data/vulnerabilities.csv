@@ -1,0 +1,16 @@
+vuln_id,cve_id,asset_id,description,cvss_score,severity,exploit_available,patch_available,discovered_date
+V001,CVE-2023-23397,A013,Microsoft Outlook elevation of privilege vulnerability,9.8,critical,true,true,2023-03-14
+V002,CVE-2021-44228,A012,Apache Log4j remote code execution (Log4Shell),10.0,critical,true,true,2021-12-10
+V003,CVE-2022-1388,A008,F5 BIG-IP iControl REST auth bypass,9.8,critical,true,true,2022-05-04
+V004,CVE-2023-4863,A002,WebP image library heap buffer overflow,8.8,high,true,true,2023-09-12
+V005,CVE-2023-4863,A003,WebP image library heap buffer overflow,8.8,high,true,true,2023-09-12
+V006,CVE-2019-0708,A001,BlueKeep RDP remote code execution,9.8,critical,true,true,2019-05-14
+V007,CVE-2022-22965,A004,Spring4Shell remote code execution,9.8,critical,true,true,2022-03-31
+V008,CVE-2023-38408,A007,OpenSSH forwarded ssh-agent RCE,9.8,critical,true,true,2023-07-19
+V009,CVE-2021-34527,A006,PrintNightmare privilege escalation,8.8,high,true,true,2021-07-01
+V010,CVE-2023-29357,A005,Microsoft SharePoint privilege escalation,9.8,critical,false,true,2023-06-13
+V011,CVE-2022-30190,A010,Follina MSDT remote code execution,7.8,high,true,true,2022-05-30
+V012,CVE-2022-30190,A011,Follina MSDT remote code execution,7.8,high,true,true,2022-05-30
+V013,CVE-2020-1472,A001,Zerologon domain privilege escalation,10.0,critical,true,true,2020-08-11
+V014,CVE-2018-10933,A015,libssh authentication bypass,9.1,critical,true,false,2018-10-16
+V015,CVE-2023-27997,A008,FortiOS/FortiProxy heap overflow (XORtigate),9.8,critical,true,true,2023-06-11

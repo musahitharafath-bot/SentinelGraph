@@ -1,0 +1,11 @@
+user_id,username,full_name,department,role,is_admin,asset_id
+U001,jsmith,John Smith,IT,SysAdmin,true,A001
+U002,akumar,Anita Kumar,Engineering,DevOps Engineer,true,A012
+U003,mchen,Michael Chen,Engineering,Software Engineer,false,A010
+U004,rpatel,Riya Patel,Engineering,Software Engineer,false,A011
+U005,swilliams,Sara Williams,Finance,CFO,true,A005
+U006,tking,Tom King,Executive,CEO,true,A009
+U007,lgarcia,Laura Garcia,HR,HR Manager,false,A006
+U008,dmoore,David Moore,IT,Network Admin,true,A007
+U009,nwright,Nate Wright,IT,Security Analyst,true,A008
+U010,pjones,Priya Jones,IT,IT Support,false,A014
